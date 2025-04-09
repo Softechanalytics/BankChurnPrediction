@@ -129,7 +129,7 @@ bank-churn-prediction/
 ├── README.md
 
 ## Additional Resource
-[Data Source](https://github.com/Softechanalytics/Unsupervised_learning/blob/main/Credit%20Card%20Customer%20Data.xlsx)
+[Data Source](https://github.com/Softechanalytics/BankChurnPrediction/blob/main/bank.csv)
 
 [Python Source code](https://github.com/Softechanalytics/BankChurnPrediction/blob/main/Project_Solution_Notebook_Bank_Churn_Prediction.ipynb)
 
