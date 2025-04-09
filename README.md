@@ -13,6 +13,8 @@ Build and evaluate a neural network-based classifier to:
 <li>Implement and compare different model versions for performance enhancement.</li>
 </ul>
 
+![Click to view code](https://github.com/Softechanalytics/BankChurnPrediction/blob/main/Project_Solution_Notebook_Bank_Churn_Prediction.ipynb)
+
 ## 📁 Dataset
 Source: Kaggle - Bank Customer Churn Modeling
 
@@ -129,7 +131,7 @@ bank-churn-prediction/
 ## Additional Resource
 [Data Source](https://github.com/Softechanalytics/Unsupervised_learning/blob/main/Credit%20Card%20Customer%20Data.xlsx)
 
-[Python Source code](https://github.com/Softechanalytics/Unsupervised_learning/blob/main/Unsupervised%20Learning%20Project%2C%20Anyakwu%2C%20Chukwuemeka%20Isaac.ipynb)
+[Python Source code](https://github.com/Softechanalytics/BankChurnPrediction/blob/main/Project_Solution_Notebook_Bank_Churn_Prediction.ipynb)
 
 ## 👨‍💻 Author
 Chukwuemeka Isaac Anyakwu
