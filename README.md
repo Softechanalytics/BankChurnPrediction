@@ -127,6 +127,9 @@ bank-churn-prediction/
 ├── README.md
 
 ## Additional Resource
+[Data Source](https://github.com/Softechanalytics/Unsupervised_learning/blob/main/Credit%20Card%20Customer%20Data.xlsx)
+
+[Python Source code](https://github.com/Softechanalytics/Unsupervised_learning/blob/main/Unsupervised%20Learning%20Project%2C%20Anyakwu%2C%20Chukwuemeka%20Isaac.ipynb)
 
 ## 👨‍💻 Author
 Chukwuemeka Isaac Anyakwu
